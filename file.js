@@ -82,13 +82,14 @@
 //  console.log("~add:",(5,6));
  
 
-const a=()=>{
-    b();
-    console.log("~a ~a:");
-};
+// const a=()=>{
+//     b();
+//     console.log("~a ~a:");
+// };
 
-const b=()=>{
-    console.log("~b ~b:");
-};
+// const b=()=>{
+//     console.log("~b ~b:");
+// };
 
-a();
+// a();
+
